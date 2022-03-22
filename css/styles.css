@@ -411,6 +411,9 @@ footer {
     color: #74808a;
     padding: 10px;
 }
+p.subTitle {
+    font-size: 19px;
+}
 @media only screen and (max-width: 750px) {
     #experience-timeline:before,
     #experience-timeline:after {
